@@ -18,7 +18,8 @@
 > - PyTorch-Geometric
 
 ## 3. 설치 및 사용 방법
-
+> - 데이터 파일과 ipynb 파일 다운로드 후 Jupyter Notebook 또는 Google Colab에서 실행
+> - 모델 세부 구조, 최적화 등의 상세 과정은 보고서 참고
 
 ## 4. 소개 및 시연 영상
 
