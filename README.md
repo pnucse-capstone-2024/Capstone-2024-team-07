@@ -22,7 +22,7 @@
 > - 모델 세부 구조, 최적화 등의 상세 과정은 보고서 참고
 
 ## 4. 소개 및 시연 영상
-[![2024전기 졸업과제 7조 동영상](http://img.youtube.com/vi/N4V-dY3biHE?si=jsw21TxUOOT33JLW/0.jpg)](https://www.youtube.com/watch?v=N4V-dY3biHE?si=jsw21TxUOOT33JLW)
+[![2024전기 졸업과제 7조 동영상](https://img.youtube.com/vi/N4V-dY3biHE?si=jsw21TxUOOT33JLW/0.jpg)](https://www.youtube.com/watch?v=N4V-dY3biHE?si=jsw21TxUOOT33JLW)
 <!--[![부산대학교 정보컴퓨터공학부소개](http://img.youtube.com/vi/zh_gQ_lmLqE/0.jpg)](https://www.youtube.com/watch?v=zh_gQ_lmLqE)    -->
 <!--Youtube URL: https://www.youtube.com/watch?v={동영상 ID}-->
 <!--Youtube Thumbnail URL: http://img.youtube.com/vi/{동영상 ID}/0.jpg-->
